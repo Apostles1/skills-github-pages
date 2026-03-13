@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+opener to future: Welcome to my blog!
 ---
