@@ -1,3 +1,3 @@
 ---
-opener to future: Welcome to my blog!
+opener to future: Enterprise-Architecture!
 ---
